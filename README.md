@@ -1,2 +1,2 @@
 # AngularJs/material
- Projeto utilizando angularJs + material
+ Estrutura que implementa um projeto angularjs com o framework material
